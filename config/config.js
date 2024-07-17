@@ -1,5 +1,7 @@
 /* Config Sample
  *
+ * Add a comment and make sure I can get it from github
+ * 
  * For more information on how you can configure this file
  * see https://docs.magicmirror.builders/configuration/introduction.html
  * and https://docs.magicmirror.builders/modules/configuration.html
