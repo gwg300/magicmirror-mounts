@@ -49,7 +49,7 @@ let config = {
 		},
 		{
                         module: "calendar",
-                        header: "Crystal / Greg Shared",
+                        header: "Crystal / Greg",
                         position: "top_left",
                         config: {
                                 calendars: [
