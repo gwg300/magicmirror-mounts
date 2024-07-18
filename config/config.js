@@ -151,7 +151,7 @@ let config = {
 						url: "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
 					}
 				],
-				updateInterval: 30000,  // 30 seconds
+				updateInterval: 20000,  // 20 seconds
 				showSourceTitle: true,
 				showPublishDate: true,
 				showDescription: true,
