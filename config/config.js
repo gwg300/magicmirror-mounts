@@ -136,11 +136,11 @@ let config = {
 				feeds: [
 					{
 						title: "NPR Science",
-						url: "https://www.npr.org/1007/rss.xml"
+						url: "https://feeds.npr.org/1007/rss.xml"
 					},
 					{
 						title: "NPR Technology",
-						url: "https://www.npr.org/1019/rss.xml"
+						url: "https://feeds.npr.org/1019/rss.xml"
 					}
 				],
 				updateInterval: 20000,  // 20 seconds
