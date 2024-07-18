@@ -136,11 +136,11 @@ let config = {
 				feeds: [
 					{
 						title: "Olympics",
-						url: "http://www.espn.com/espn/rss/oly/news"
+						url: "https://www.espn.com/espn/rss/oly/news"
 					},
 					{
 						title: "NPR",
-						url: "http://www.npr.org/rss/rss.php?id=1001"
+						url: "https://www.npr.org/rss/rss.php?id=1001"
 					},
 					{
 						title: "New York Times",
