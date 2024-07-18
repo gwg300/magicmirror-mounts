@@ -147,10 +147,14 @@ let config = {
 						url: "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
 					}
 				],
+				updateInterval: 30000,  // 30 seconds
 				showSourceTitle: true,
 				showPublishDate: true,
-				broadcastNewsFeeds: true,
-				broadcastNewsUpdates: true
+				showDescription: true,
+				ignoreOldItems: true,
+				logFeedWarnings: true,
+				broadcastNewsFeeds: false,
+				broadcastNewsUpdates: false
 			}
 		},
 	]
