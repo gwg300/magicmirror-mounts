@@ -135,20 +135,12 @@ let config = {
 			config: {
 				feeds: [
 					{
-						title: "Olympics",
-						url: "https://www.espn.com/espn/rss/oly/news"
-					},
-					{
 						title: "NPR Science",
 						url: "https://www.npr.org/1007/rss.xml"
 					},
 					{
 						title: "NPR Technology",
 						url: "https://www.npr.org/1019/rss.xml"
-					},
-					{
-						title: "New York Times",
-						url: "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
 					}
 				],
 				updateInterval: 20000,  // 20 seconds
