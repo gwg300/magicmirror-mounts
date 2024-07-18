@@ -139,8 +139,12 @@ let config = {
 						url: "https://www.espn.com/espn/rss/oly/news"
 					},
 					{
-						title: "NPR",
-						url: "https://www.npr.org/rss/rss.php?id=1001"
+						title: "NPR Science",
+						url: "https://www.npr.org/1007/rss.xml"
+					},
+					{
+						title: "NPR Technology",
+						url: "https://www.npr.org/1019/rss.xml"
 					},
 					{
 						title: "New York Times",
