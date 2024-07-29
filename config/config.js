@@ -128,33 +128,14 @@ let config = {
                                 lat: 41.5751,
                                 lon: -71.5351
                         }
-                },
+ 	       	},
 		{
-			module: "newsfeed",
-			position: "bottom_bar",
-			config: {
-				feeds: [
-					{
-						title: "NPR Science",
-						url: "https://feeds.npr.org/1007/rss.xml"
-					},
-					{
-						title: "NPR Technology",
-						url: "https://feeds.npr.org/1019/rss.xml"
-					}
-				],
-				updateInterval: 20000,  // 20 seconds
-				showSourceTitle: true,
-				showPublishDate: true,
-				showDescription: true,
-				ignoreOldItems: true,
-				logFeedWarnings: true,
-				broadcastNewsFeeds: false,
-				broadcastNewsUpdates: false
-			}
-		},
+			module: 'MMM-Tools',
+			position: 'bottom_right'
+		}
 	]
 };
+
 
 /*************** DO NOT EDIT THE LINE BELOW ***************/
 if (typeof module !== "undefined") { module.exports = config; }
